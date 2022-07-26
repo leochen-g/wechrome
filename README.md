@@ -10,3 +10,13 @@ To protect your account, logging in to WeChat via the web has been suspended. Us
 ```
 
 This extension bypasses this check!
+
+## how to use
+
+1、Download this project into your pc
+
+2、add offline plugin into your chrome
+
+3、open [https://wx.qq.com/?target=t](https://wx.qq.com/?target=t)
+
+
